@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name esp-12f_module)(type Legacy)(uri ${KICAD_VENTLIB_DIR}/alex_libs/ESP-12F/esp-12f_module.lib)(options "")(descr ""))
+)
